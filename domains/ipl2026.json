@@ -1,6 +1,7 @@
 {
     "owner": {
-      "username": "professorhemant"
+      "username": "professorhemant",
+      "email": "your-actual-email@gmail.com"
     },
     "records": {
       "CNAME": "ipl2026predictions.up.railway.app"
